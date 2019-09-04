@@ -22,3 +22,8 @@ Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 
 * [Getting started with Jupyter notebooks](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46)
 
 Alternatively, use [Binder](https://mybinder.org) (link above).
+
+## Credits
+
+* Michael Repplinger, who ran the 2018/19 edition of this course
+* Giovanni Colavizza and Matteo Romanello, Applied Data Analysis course for the Oxford Digitial Humanities Summer School [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3352830.svg)](https://doi.org/10.5281/zenodo.3352830)
