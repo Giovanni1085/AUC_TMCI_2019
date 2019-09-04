@@ -25,5 +25,5 @@ Alternatively, use [Binder](https://mybinder.org) (link above).
 
 ## Credits
 
-* Michael Repplinger, who ran the 2018/19 edition of this course.
-* Giovanni Colavizza and Matteo Romanello, Applied Data Analysis course for the Oxford Digitial HUmanities Summer School [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3352830.svg)](https://doi.org/10.5281/zenodo.3352830).
+* Michael Repplinger, who ran the 2018/19 edition of this course
+* Giovanni Colavizza and Matteo Romanello, Applied Data Analysis course for the Oxford Digitial Humanities Summer School [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3352830.svg)](https://doi.org/10.5281/zenodo.3352830)
