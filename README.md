@@ -6,7 +6,7 @@ Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 
 ## Contents
 
 * [Hello World](notebooks/0_HelloWorld.ipynb): a first notebooks to check everything is working.
-* TBD
+* [Lab 1: Fundamentals I](notebooks/1_Fundamentals.ipynb) Python fundamentals, part 1 (variables, built-in data types and structures, syntax, flow control).
 
 ## Set-up
 
@@ -20,3 +20,5 @@ Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 
 * [More on conda enviroments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 * [Conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 * [Getting started with Jupyter notebooks](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46)
+
+Alternatively, use [Binder](https://mybinder.org) (link above).
