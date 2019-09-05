@@ -6,7 +6,7 @@ Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 
 ## Contents
 
 * [Hello World](notebooks/0_HelloWorld.ipynb): a first notebooks to check everything is working.
-* [Lab 1: Fundamentals I](notebooks/1_Fundamentals.ipynb) Python fundamentals, part 1 (variables, built-in data types and structures, syntax, flow control).
+* [Lab 1: Fundamentals I](notebooks/1_Fundamentals.ipynb): Python fundamentals, part 1 (variables, built-in data types and structures, syntax, flow control).
 
 ## Set-up
 
