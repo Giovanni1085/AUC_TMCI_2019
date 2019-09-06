@@ -6,15 +6,15 @@ Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 
 ## Contents
 
 * [Hello World](notebooks/0_HelloWorld.ipynb): a first notebooks to check everything is working.
-* [Lab 1: Fundamentals I](notebooks/1_Fundamentals.ipynb): Python fundamentals, part 1 (variables, built-in data types and structures, syntax, flow control).
+* [Lab 1: Fundamentals](notebooks/1_Fundamentals.ipynb): variables, built-in data types and structures, syntax, flow control.
 
 ## Set-up
 
 1. Clone the repository locally: `git clone https://github.com/Giovanni1085/AUC_TMCI_2019.git`
 2. Get updates (from time to time): `git pull`
-3. Create a conda environemnt: `conda create -n myenv python=3.7`
+3. Create a conda environemnt: `conda create -n myenv python=3.7 anaconda` (where `myenv` is the envirnoment name)
 4. Activate it: `conda activate myenv`
-5. Install packages (see the `requirements.txt` file): `conda install pandas`
+5. Install packages (see the `requirements.txt` file), e.g. `conda install pandas`
 6. Launch a Jupyter notebook: `jupyter notebook`
 
 * [More on conda enviroments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
@@ -23,6 +23,8 @@ Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 
 * [On using git and GitHub for version control](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch02git)
 
 Alternatively, use [Binder](https://mybinder.org) (link above).
+
+**A more detailed [guide to setup your environment](setup.md), with multiple options.**
 
 ## Credits
 
