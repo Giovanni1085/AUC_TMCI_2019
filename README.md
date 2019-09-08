@@ -7,6 +7,9 @@ Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 
 
 * [Hello World](notebooks/0_HelloWorld.ipynb): a first notebooks to check everything is working.
 * [Lab 1: Fundamentals](notebooks/1_Fundamentals.ipynb): variables, built-in data types and structures, syntax, flow control.
+* [Lab 2: Fundamentals](notebooks/2_MoreFundamentals.ipynb): functions, exceptions, classes, I/O.
+* [Lab 3: Fundamentals, pt. 1](notebooks/3_EvenMoreFundamentals_1.ipynb): modules, packages, standard library.
+* [Lab 3: Fundamentals, pt. 2](notebooks/3_EvenMoreFundamentals_2.ipynb): scientific programming.
 
 ## Set-up
 
