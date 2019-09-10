@@ -31,7 +31,11 @@ For Windows, see [here](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_
 1. The first time, clone the repository locally using `git clone https://github.com/Giovanni1085/AUC_TMCI_2019.git`.
 2. Keep getting updates to the code before every lab by going to your local repository directory (e.g., `cd PATH_TO_REPO`) and `git pull`. This will pull all remote changes to local, and update your repository.
 
-#### The easy way
+#### The easy way - 1 
+
+You might want to use the [GitHub Desktop app](https://desktop.github.com) to keep track of your repositories. If you have it installed, instead of cloning the repo you can use the Open in Desktop option.
+
+#### The easy way - 2
 
 Just download the repository code before every lab, by clicking on `Clone or download`, and then `Download ZIP`. You will then need to unzip the downloaded file.
 
