@@ -31,6 +31,6 @@ Alternatively, use [Binder](https://mybinder.org) (link above).
 
 ## Credits
 
-* Michael Repplinger, who ran the 2018/19 edition of this course
+* Michael Repplinger, who ran the 2018/19 edition and Gianluca Lebani, who ran the 2017/28 edition.
 * Giovanni Colavizza and Matteo Romanello, Applied Data Analysis course for the Oxford Digitial Humanities Summer School [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3352830.svg)](https://doi.org/10.5281/zenodo.3352830)
 * James Hetherington and Giovanni Colavizza, [Research Software Engineering with Python](https://alan-turing-institute.github.io/rsd-engineeringcourse/)
