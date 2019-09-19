@@ -8,8 +8,10 @@ Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 
 * [Hello World](notebooks/0_HelloWorld.ipynb): a first notebooks to check everything is working.
 * [Lab 1: Fundamentals](notebooks/1_Fundamentals.ipynb): variables, built-in data types and structures, syntax, flow control.
 * [Lab 2: Fundamentals](notebooks/2_MoreFundamentals.ipynb): functions, exceptions, classes, I/O.
-* [Lab 3: Fundamentals, pt. 1](notebooks/3_EvenMoreFundamentals_1.ipynb): modules, packages, standard library.
-* [Lab 3: Fundamentals, pt. 2](notebooks/3_EvenMoreFundamentals_2.ipynb): scientific programming.
+* [Lab 3: More fundamentals](notebooks/3_EvenMoreFundamentals.ipynb): modules, packages, standard library.
+* [Lab 4_1: Scientific programming](notebooks/4_ScientificProgramming.ipynb): NumPy, matplotlib.
+* [Lab 4_2: Regular expressions](notebooks/4_RegularExpressions.ipynb).
+* [Lab 5: NLP pipelines](notebooks/5_NLP_pipelines.ipynb): sentence splitting, tokenizing, stemming and lemmatizing, part-of-speech tagging.
 
 ## Set-up
 
@@ -31,6 +33,6 @@ Alternatively, use [Binder](https://mybinder.org) (link above).
 
 ## Credits
 
-* Michael Repplinger, who ran the 2018/19 edition and Gianluca Lebani, who ran the 2017/28 edition.
+* Michael Repplinger, who ran the 2018/19 edition and Gianluca Lebani, who ran the 2017/18 edition.
 * Giovanni Colavizza and Matteo Romanello, Applied Data Analysis course for the Oxford Digitial Humanities Summer School [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3352830.svg)](https://doi.org/10.5281/zenodo.3352830)
 * James Hetherington and Giovanni Colavizza, [Research Software Engineering with Python](https://alan-turing-institute.github.io/rsd-engineeringcourse/)
