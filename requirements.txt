@@ -10,3 +10,6 @@ spacy
 nltk
 sqlalchemy
 statsmodels
+tweepy
+configparser
+requests
