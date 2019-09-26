@@ -12,6 +12,7 @@ Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 
 * [Lab 4_1: Scientific programming](notebooks/4_ScientificProgramming.ipynb): NumPy, matplotlib.
 * [Lab 4_2: Regular expressions](notebooks/4_RegularExpressions.ipynb).
 * [Lab 5: NLP pipelines](notebooks/5_NLP_pipelines.ipynb): sentence splitting, tokenizing, stemming and lemmatizing, part-of-speech tagging.
+* [Lab 6: Web scraping and APIs](notebooks/6_WebScraping_APIs.ipynb).
 
 ## Set-up
 
