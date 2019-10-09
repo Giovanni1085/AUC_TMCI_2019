@@ -13,6 +13,8 @@ Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 
 * [Lab 4_2: Regular expressions](notebooks/4_RegularExpressions.ipynb).
 * [Lab 5: NLP pipelines](notebooks/5_NLP_pipelines.ipynb): sentence splitting, tokenizing, stemming and lemmatizing, part-of-speech tagging.
 * [Lab 6: Web scraping and APIs](notebooks/6_WebScraping_APIs.ipynb).
+* [Lab 7_1: Distributions in texts](notebooks/7_Distributions_in_text.ipynb).
+* [Lab 7_2: WordNet](notebooks/7_WordNet.ipynb).
 
 ## Set-up
 
