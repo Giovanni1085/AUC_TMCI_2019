@@ -35,6 +35,10 @@ Alternatively, use [Binder](https://mybinder.org) (link above).
 
 **A more detailed [guide to setup your environment](setup.md), with multiple options.**
 
+## Projects
+
+See the [projects folder](/projects).
+
 ## Credits
 
 * Michael Repplinger, who ran the 2018/19 edition and Gianluca Lebani, who ran the 2017/18 edition.

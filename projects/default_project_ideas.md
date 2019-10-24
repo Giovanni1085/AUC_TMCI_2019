@@ -40,7 +40,7 @@ Build a recommender system for scientific publications based on their contents a
 
 ## Language of
 
-Perform an analysis of the language of the following categories of documents, using language models, sentiment analysis, clustering and any other technique you like.
+Perform an analysis of the language of the following categories of documents, using language models, sentiment analysis, clustering and any other technique you like. Try to come up with a question you would like answered.
 
 ### Films
 
