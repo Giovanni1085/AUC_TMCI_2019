@@ -4,24 +4,24 @@ The project is the main grading item of the course. It will allow you to chose a
 
 ## Timeline
 
-* **November 1** Guidelines and default project ideas out. Group formation opens on Canvas. Proposals for custom projects welcome.
+* **November 1** Guidelines and default project ideas out. Group formation opens on Canvas (you can self-organize, groups are capped to 3). Proposals for custom projects are encouraged.
 * **Novembre 8** Groups formed and projects decided. Discussions (with me) on how to structure a project should start ASAP.
 * **November 15** Project update 0: GitHub repository `README` (or a Google doc). You need here to submit a link to your repo containing the populated `README` file. This file should contain a detailed project plan, including: research question, dataset, methods, milestones, proposed division of work. Please use the [repository README template](README_template.md).
-* **November 22** Project update 1.
-* **November 29** Project update 2.
-* **December 6** Project update 3.
+* **November 22** Project update 1 (see below for guidelines).
+* **November 29** Project update 2 (see below for guidelines).
+* **December 6** Project update 3 (see below for guidelines).
 * **December 13 (23:59 CET)** Project due for all groups (30% of final grade).
 * **December 17-20** In-class presentations (10% of final grade): 10+10 minutes (presentation + questions), schedule to be published in advance.
 
 ## Practicalities
 
-* **Team size**: teams of 3 people are strongly encouraged. One group can be sized 2 or 4 if necessary. Groups of size 2 or 4 are allowed for motivated reasons (the expected workload goes down or up accordingly). In general, groups of 1 are not allowed.
+* **Team size**: teams of 3 people are strongly encouraged. One or two groups can be sized 2 or 4 if necessary. Groups of size 2 or 4 are allowed for motivated reasons (the expected workload goes down or up accordingly). In general, groups of 1 are not allowed.
 * **Contribution**: in the final report plase add a statement of what each team member contributed to the project. Team members will typically get the same grade, but I may differentiate in extreme cases of unequal contribution. You can contact me in confidence in the event of unequal contribution.
 *Example: John: Plotting graphs during data analysis, crawling the data, preliminary data analysis; Mary: Problem formulation, writing up the report, coming up with the algorithm; Chris: Coding up the algorithm, running tests, tabulating final results.*
 * **Using external resources**: you may use any existing code, libraries, etc. and consult any papers, books, online references, etc. for your project. However, you must cite your sources in your writeup and clearly indicate which parts of the project are your contribution and which parts were implemented by others. Under no circumstances may you look at another project's code, or incorporate their code into your project.
-* **Logistics**: you are strongly encouraged to create your project's GitHub repository and work there. Alternatively, you can work locally, yet keep in mind it is very difficult to collaborate like this.
-* **Updates**: these are brief summaries of what you have accomplished during the previous week, as well as any question you would like to ask. Projects using GitHub should open an *issue* for every separate update, and add links to code or data where applicable. I will reply there. Projects not using GitHub should use Canvas or Google docs instead.
-* **Final submission**. You are expected to submit the following: a short **report** (4-page maximum), a **slide deck** for your presentation (I recommend 5-10 slides, not more), the **repository** or folder containing code, data and a `README` file with appropriate documentation to navigate the repository (compressed `.zip` or a link to GitHub). **Please put the bulk of the code into a single notebook, with a clear structure and dependences.** *Note that the slide deck can be submitted after the group presentation.*
+* **Logistics**: you are strongly encouraged to create your project's GitHub repository and work there (one of you uses their account and the others are invited as collaborators). This will help you strart your project portfolio online. Alternatively, you can work locally, yet keep in mind it is very difficult to collaborate like this.
+* **Updates**: these are brief summaries of what you have accomplished during the previous week, as well as any question you would like to ask. Projects using GitHub should open an *issue* for every separate update, and add links to code or data where applicable. I will reply there. Projects not using GitHub should use Canvas or Google docs instead. *You must submit updates*, this is not optional (nor graded).
+* **Final submission**. You are expected to submit the following: a short **report** (4-page maximum, excluding references), a **slide deck** for your presentation (I recommend 5-10 slides, not more), the **repository** or folder containing code, data and a `README` file with appropriate documentation to navigate the repository (compressed `.zip` or a link to GitHub). **Please put the bulk of the code into a single notebook, with a clear structure and dependences.** *Note that the slide deck can be submitted after the group presentation.*
 
 ## Set-up
 

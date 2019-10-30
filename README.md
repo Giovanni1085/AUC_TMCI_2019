@@ -10,11 +10,11 @@ Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 
 * [Lab 2: Fundamentals](notebooks/2_MoreFundamentals.ipynb): functions, exceptions, classes, I/O.
 * [Lab 3: More fundamentals](notebooks/3_EvenMoreFundamentals.ipynb): modules, packages, standard library.
 * [Lab 4_1: Scientific programming](notebooks/4_ScientificProgramming.ipynb): NumPy, matplotlib.
-* [Lab 4_2: Regular expressions](notebooks/4_RegularExpressions.ipynb).
+* [Lab 4_2: Regular expressions](notebooks/4_RegularExpressions.ipynb) (only for reference).
 * [Lab 5: NLP pipelines](notebooks/5_NLP_pipelines.ipynb): sentence splitting, tokenizing, stemming and lemmatizing, part-of-speech tagging.
 * [Lab 6: Web scraping and APIs](notebooks/6_WebScraping_APIs.ipynb).
 * [Lab 7_1: Distributions in texts](notebooks/7_Distributions_in_text.ipynb).
-* [Lab 7_2: WordNet](notebooks/7_WordNet.ipynb).
+* [Lab 7_2: WordNet](notebooks/7_WordNet.ipynb) (only for reference).
 * [Lab 8: Vector Semantics](notebooks/8_Vector_Semantics.ipynb).
 * [Lab 9: Intro to ML](notebooks/9_ML.ipynb): linear regression, logistic regression, SGD, Sklearn.
 
