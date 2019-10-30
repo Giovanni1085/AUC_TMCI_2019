@@ -16,6 +16,7 @@ Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 
 * [Lab 7_1: Distributions in texts](notebooks/7_Distributions_in_text.ipynb).
 * [Lab 7_2: WordNet](notebooks/7_WordNet.ipynb).
 * [Lab 8: Vector Semantics](notebooks/8_Vector_Semantics.ipynb).
+* [Lab 9: Intro to ML](notebooks/9_ML.ipynb): linear regression, logistic regression, SGD, Sklearn.
 
 ## Set-up
 
