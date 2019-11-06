@@ -17,6 +17,7 @@ Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 
 * [Lab 7_2: WordNet](notebooks/7_WordNet.ipynb) (only for reference).
 * [Lab 8: Vector Semantics](notebooks/8_Vector_Semantics.ipynb).
 * [Lab 9: Intro to ML](notebooks/9_ML.ipynb): linear regression, logistic regression, SGD, Sklearn.
+* [Lab 10: Word Embeddings](notebooks/10_WordEmbeddings.ipynb): Word2Vec using Gensim.
 
 ## Set-up
 
