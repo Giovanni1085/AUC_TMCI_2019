@@ -27,13 +27,13 @@ Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 
 See the [projects folder](/projects) for info.
 
 2019/20 project outcomes:
-* Jaël Kortekaas, António Mendes, Ludovica Schaerf, *Topic Modelling of Song Lyrics*: https://github.com/ludovicaschaerf/TMCI_Project.
-* Joyce den Hertog, Barbara van Eeghen, Eva Schoonings, *Fake News Detection*: https://github.com/joycedh/TMCI_project.
-* Vera Neplenbroek, Kamiel Fokkink, Baran Işcanli, *Machine Translation with Recurrent Neural Networks*: https://github.com/Veranep/TMCI_Kamiel_Baran_Vera.
-* Rajiv Manichand, Hanabi Ono, Eva Gmelich Meijling, *Topic Modeling on Bills of the US Congress*: https://github.com/Raj1v/TMCI_Final_Project.
-* Andrew Nelson, Tomas Kehus, Lela Roos, *Common Threads among Last Statements from Death Row Offenders*: https://github.com/lelaroos/tmci_project6.
-* Jan Koetsier, Lily Voge, Caoimhe Martin, *A Textual Analysis of UK Parliament Debates -- Gaining a Better Understanding of Brexit Processes*: https://github.com/TjalieWS/TMCI-Project-Nov-2019.
-* Jasmijn Bleijlevens, Lanie Preston, Floor Kouwenberg, *Fantastic Food Finder : Rating Prediction & Sentiment Analysis on Amazon Food Reviews*: https://github.com/floorkouwenberg/TMCI_project.
+* Jaël Kortekaas, António Mendes, Ludovica Schaerf, [Topic Modelling of Song Lyrics](https://github.com/ludovicaschaerf/TMCI_Project).
+* Joyce den Hertog, Barbara van Eeghen, Eva Schoonings, [Fake News Detection](https://github.com/joycedh/TMCI_project).
+* Vera Neplenbroek, Kamiel Fokkink, Baran Işcanli, [Machine Translation with Recurrent Neural Networks](https://github.com/Veranep/TMCI_Kamiel_Baran_Vera).
+* Rajiv Manichand, Hanabi Ono, Eva Gmelich Meijling, [Topic Modeling on Bills of the US Congress](https://github.com/Raj1v/TMCI_Final_Project).
+* Andrew Nelson, Tomas Kehus, Lela Roos, [Common Threads among Last Statements from Death Row Offenders](https://github.com/lelaroos/tmci_project6).
+* Jan Koetsier, Lily Voge, Caoimhe Martin, [A Textual Analysis of UK Parliament Debates -- Gaining a Better Understanding of Brexit Processes](https://github.com/TjalieWS/TMCI-Project-Nov-2019).
+* Jasmijn Bleijlevens, Lanie Preston, Floor Kouwenberg, [Fantastic Food Finder : Rating Prediction & Sentiment Analysis on Amazon Food Reviews](https://github.com/floorkouwenberg/TMCI_project).
 
 ## Set-up
 
