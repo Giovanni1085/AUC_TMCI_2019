@@ -1,7 +1,7 @@
 # AUC_TMCI_2019
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Giovanni1085/AUC_TMCI_2019/master)
 
-Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 2019
+Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 2019.
 
 ## Contents
 
@@ -22,6 +22,19 @@ Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 
 * [Lab 12: Recommender Systems](notebooks/12_Recommender_Systems.ipynb).
 * [Lab 13: Clustering and Topic Modelling](notebooks/13_Clustering_TopicModelling.ipynb).
 
+## Projects
+
+See the [projects folder](/projects) for info.
+
+2019/20 project outcomes:
+* Jaël Kortekaas, António Mendes, Ludovica Schaerf, *Topic Modelling of Song Lyrics*: https://github.com/ludovicaschaerf/TMCI_Project.
+* Joyce den Hertog, Barbara van Eeghen, Eva Schoonings, *Fake News Detection*: https://github.com/joycedh/TMCI_project.
+* Vera Neplenbroek, Kamiel Fokkink, Baran Işcanli, *Machine Translation with Recurrent Neural Networks*: https://github.com/Veranep/TMCI_Kamiel_Baran_Vera.
+* Rajiv Manichand, Hanabi Ono, Eva Gmelich Meijling, *Topic Modeling on Bills of the US Congress*: https://github.com/Raj1v/TMCI_Final_Project.
+* Andrew Nelson, Tomas Kehus, Lela Roos, *Common Threads among Last Statements from Death Row Offenders*: https://github.com/lelaroos/tmci_project6.
+* Jan Koetsier, Lily Voge, Caoimhe Martin, *A Textual Analysis of UK Parliament Debates -- Gaining a Better Understanding of Brexit Processes*: https://github.com/TjalieWS/TMCI-Project-Nov-2019.
+* Jasmijn Bleijlevens, Lanie Preston, Floor Kouwenberg, *Fantastic Food Finder : Rating Prediction & Sentiment Analysis on Amazon Food Reviews*: https://github.com/floorkouwenberg/TMCI_project.
+
 ## Set-up
 
 1. Clone the repository locally: `git clone https://github.com/Giovanni1085/AUC_TMCI_2019.git`
@@ -39,10 +52,6 @@ Amsterdam University College -- Text Mining and Collective Intelligence -- Fall 
 Alternatively, use [Binder](https://mybinder.org) (link above).
 
 **A more detailed [guide to setup your environment](setup.md), with multiple options.**
-
-## Projects
-
-See the [projects folder](/projects).
 
 ## Credits
 
